@@ -110,9 +110,9 @@ I'm a passionate **Full Stack Developer** and **AI/ML Engineer** who loves build
 
 ```python
 current_focus = {
-    "learning": ["Advanced ML Algorithms", “UI/UX”, "System Design"],
-    "building": ["AI-powered applications", "Scalable web services"],
-    "exploring": ["New frameworks", "Best practices", "Open source contributions"]
+    "learning": ["Data Structures and Algorithms", “UI/UX”, "Data Management","Front-end"],
+    "building": ["AI-powered applications", "Scalable web services","web applications","interactive dashboards"],
+    "exploring": ["New frameworks", "Best practices", "Open source contributions","Data Analytics","Agile Technologies"]
 }
 ```
 
