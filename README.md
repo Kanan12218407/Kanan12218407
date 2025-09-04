@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 </div>
 <picture>
   <source media="(prefers-color-scheme: dark)" 
-          srcset="https://raw.githubusercontent.com/Kanan12218407/Kanan12218407/output/github-contribution-grid-snake-dark.svg" />
+          srcset="https://raw.githubusercontent.com/Kanan-sandal/Kanan-sandal/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" 
-          srcset="https://raw.githubusercontent.com/Kanan12218407/Kanan12218407/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution grid snake animation — Kanan12218407"
-       src="https://raw.githubusercontent.com/Kanan12218407/Kanan12218407/output/github-contribution-grid-snake.svg"
+          srcset="https://raw.githubusercontent.com/Kanan-sandal/Kanan-sandal/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution grid snake animation — Kanan-sandal"
+       src="https://raw.githubusercontent.com/Kanan-sandal/Kanan-sandal/output/github-contribution-grid-snake.svg"
        style="max-width:100%; height:auto; display:block; margin:0 auto;" />
 </picture>
 
@@ -69,11 +69,11 @@ I'm a passionate **Full Stack Developer** and **AI/ML Engineer** who loves build
 -->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanan12218407&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanan-sandal&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kanan12218407&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kanan-sandal&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <!--
@@ -85,7 +85,7 @@ I'm a passionate **Full Stack Developer** and **AI/ML Engineer** who loves build
 
 ## 🔥 Contribution Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kanan12218407&theme=redical&hide_border=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kanan-sandal&theme=redical&hide_border=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF" alt="Contribution Graph" />
 </div>
 <!--
 ## 🌟 Featured Projects
@@ -120,14 +120,14 @@ current_focus = {
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanan-sandal-3bb223248/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanan-sandal)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kanansandal9@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/kanansandal9/)
 
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kanan12218407&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Kanan-sandal&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
 
 ---
